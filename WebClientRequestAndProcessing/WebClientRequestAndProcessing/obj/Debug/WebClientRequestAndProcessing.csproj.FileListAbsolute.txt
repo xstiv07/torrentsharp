@@ -1,0 +1,1 @@
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientRequestAndProcessing\bin\Debug\WebClientRequestAndProcessing.exe.config

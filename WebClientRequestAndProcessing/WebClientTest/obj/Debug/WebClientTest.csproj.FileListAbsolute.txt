@@ -1,0 +1,19 @@
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\WebClientTest.exe.config
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\MainWindow.baml
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\MainWindow.g.cs
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\App.g.cs
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest_MarkupCompile.cache
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.g.resources
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.Properties.Resources.resources
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.csproj.GenerateResource.Cache
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\WebClientTest.exe
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\WebClientTest.pdb
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.exe
+c:\users\stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Debug\WebClientTest.exe.config
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.exe
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Debug\WebClientTest.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\Fenestra.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Debug\Fenestra.pdb

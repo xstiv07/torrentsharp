@@ -1,0 +1,17 @@
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\WebClientTest.exe.config
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\WebClientTest.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\WebClientTest.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.baml
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.g.cs
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\App.g.cs
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest_MarkupCompile.cache
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.g.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.Properties.Resources.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.csproj.GenerateResource.Cache
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\WebClientTest.csprojResolveAssemblyReference.cache

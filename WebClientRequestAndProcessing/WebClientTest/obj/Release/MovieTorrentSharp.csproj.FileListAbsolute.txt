@@ -1,0 +1,33 @@
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.baml
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.g.cs
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\App.g.cs
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.GenerateResource.Cache
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.Properties.Resources.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe.config
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp_MarkupCompile.cache
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.g.resources
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.exe
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.pdb
+C:\Users\Stas\documents\visual studio 2013\Projects\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe.config
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.exe
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.pdb
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.pdb
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.pdb
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csprojResolveAssemblyReference.cache
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.baml
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.g.cs
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\App.g.cs
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp_MarkupCompile.cache
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.g.resources
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.Properties.Resources.resources
+C:\Users\Stas\Desktop\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.GenerateResource.Cache
