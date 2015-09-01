@@ -1,7 +1,7 @@
 Desktop torrent application written in C# (WPF).
 
 #Requirements
-Requires at least .NET 4.5 installed on the host system.
+Requires at least .NET 4.5 installed on the host system. <br />
 Requires a torrent application installed on the system, otherwise an exception is thrown when trying to download.
 
 #Description
