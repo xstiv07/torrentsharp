@@ -21,8 +21,8 @@ namespace MovieTorrentSharp
         const string imageURL = "https://image.tmdb.org/t/p/w300";
         const string movieMode = "https://api.themoviedb.org/3/movie/";
         const string queryMode = "http://api.themoviedb.org/3/search/movie?query=";
-        const string fetchedUrl = "http://www.rutor.org/search/0/0/000/0/";
-        const string baseTrackerUrl = "http://www.rutor.org";
+        const string fetchedUrl = "http://www.rutor.info/search/0/0/000/0/";
+        const string baseTrackerUrl = "http://www.rutor.info";
 
         const string movieAudioPattern = "Аудио([^\n\r]*)|Audio([^\n\r]*)";
         const string magnetLinksPattern = "(?s)(magnet).*?(?=&dn=rutor)";
