@@ -11,3 +11,6 @@ When the download button is pressed, the application passes a magnet link to the
 - Sometimes it takes a while for the magnet link to be initialized by the torrent application.
 - Most of the time if English audio is present it is not the default track. You should set the default audio track in the 
 audio settings of the video player you are using.
+
+
+Screenshots available in my portfolio at https://xstiv07.carbonmade.com/projects/6093301
