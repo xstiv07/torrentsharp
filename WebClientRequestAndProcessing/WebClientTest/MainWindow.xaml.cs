@@ -35,6 +35,11 @@ namespace MovieTorrentSharp
 
         public MainWindow()
         {
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls
+            | SecurityProtocolType.Tls11
+            | SecurityProtocolType.Tls12
+            | SecurityProtocolType.Ssl3;
+
             InitializeComponent();
             CenterWindowOnScreen();
         }

@@ -47,3 +47,21 @@ C:\Users\Administrator\Desktop\torrentsharp-master\torrentsharp-master\WebClient
 C:\Users\Administrator\Desktop\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.g.resources
 C:\Users\Administrator\Desktop\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.Properties.Resources.resources
 C:\Users\Administrator\Desktop\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.GenerateResource.Cache
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe.config
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.exe
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\MovieTorrentSharp.pdb
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\Fenestra.pdb
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.AssemblyReference.cache
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.baml
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MainWindow.g.cs
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\App.g.cs
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp_MarkupCompile.cache
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.g.resources
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.Properties.Resources.resources
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.GenerateResource.cache
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.CoreCompileInputs.cache
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.csproj.CopyComplete
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.exe
+C:\Users\Stas Ivash\Downloads\torrentsharp-master\torrentsharp-master\WebClientRequestAndProcessing\WebClientTest\obj\Release\MovieTorrentSharp.pdb
