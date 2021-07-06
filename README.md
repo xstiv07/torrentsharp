@@ -6,3 +6,5 @@ When the download button is pressed, the application passes a magnet link to the
 #Requirements/Notes
 - Requires at least .NET 4.5 installed on the host system. <br />
 - Requires a torrent application installed on the system.
+
+![](https://github.com/xstiv07/torrentsharp/blob/master/31559269.png)
